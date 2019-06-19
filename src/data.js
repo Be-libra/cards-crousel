@@ -1,5 +1,14 @@
 export default [
   { pics: [
+      "https://images.pexels.com/photos/275717/pexels-photo-275717.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=1&w=500"
+    ],
+    name: "jenny ",
+    age : 28,
+    distance: "2 mile away",
+    text:"caring and loving, i love dogs instead of humans , so be a dog not a human"
+
+  },
+  { pics: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiLTOwaT5FsvOKorv3VzHp-S5YsPlex9uph7P164X0d-Wp5XTBQ"
     ],
     name: "Alexandre ",
